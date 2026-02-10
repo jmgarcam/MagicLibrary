@@ -8,7 +8,10 @@ import java.util.logging.Logger;
 
 import edu.gitt.is.magiclibrary.view.MLView;
 
+
 /**
+
+/*****
  * <p>Clase principal de la aplicaci�n</p>
  * @author Isabel Rom�n
  *
@@ -37,10 +40,14 @@ public class MagicLibrary {
 	 */
 	public static void main(String[] args) {
 <<<<<<< HEAD
+<<<<<<< HEAD
 log.info("bea");
 		log.info("Hola Jose");
 =======
 		log.info("bea");
+>>>>>>> refs/heads/Practica8
+=======
+		
 >>>>>>> refs/heads/Practica8
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
 		log.log(Level.INFO, "Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");
